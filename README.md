@@ -111,7 +111,7 @@ As we learn Ruby, it's important to revisit how we learned our first language an
 
 ## Docs & Resources
 
-* [Ruby Data Types & Variables](./ruby-data-types-variables.md)
+* [Ruby Data Types & Variables](https://github.com/sf-wdi-30/intro-ruby/blob/master/ruby-data-types-and-variables.md)
 * <a href="http://ruby-doc.org/core-2.2.0/Array.html" target="_blank">Ruby Docs: Array</a>
 * <a href="http://ruby-doc.org/core-2.2.0/Hash.html" target="_blank">Ruby Docs: Hash</a>
 * <a href="https://en.wikibooks.org/wiki/Ruby_Programming/Syntax/Control_Structures" target="_blank">Ruby Control Flow Structures</a>
